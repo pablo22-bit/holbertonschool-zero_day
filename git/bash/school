@@ -1,2 +1,3 @@
-#!/bin/bassh and echo "school"
+#!/bin/bash
+echo "School"
 
